@@ -1,6 +1,6 @@
 # de-parser
 
-git clone git@github.com:Zombobot1/de-parser.git
-cd de-parser
-npm i
-npm run dev
+1. git clone git@github.com:Zombobot1/de-parser.git
+2. cd de-parser
+3. npm i
+4. npm run dev
